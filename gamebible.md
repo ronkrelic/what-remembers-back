@@ -76,3 +76,43 @@ Who you were when you woke:
 ---
 
 *More sections follow: factions, the people, the bestiary, combat, the quests, the endings, art and sound.*
+
+## 7. The Four Factions
+
+**The Archive (the Custodians of the Standing Word).** They believe memory must be fixed, written, permanent. Their citadel is the **Palimpsest**, a tower of scraped grey stone where the definitive version of every important memory is filed - and to store a definitive version, the original must be surrendered. Their creed: a memory written down twice is a memory made safe. In practice the copy is always colder. They anchor the great cities by rote recitation; the Shoals would silt without them. They are necessary, and they are wrong about you: to the Archive, an uncataloged Remembrance is a loose thread in reality, and loose threads get corrected.
+
+**The Kindling.** A church of sacred forgetting. They hold that the Shroud is not death but freedom: to be forgotten is to be relieved. Their fire-tenders burn memories mercifully for the dying, the grieving, the overburdened - and their zealots burn their own pasts piece by piece to ascend, lighter and lighter. They venerate Remembrances as proof that a memory can become a person, and they want to help you complete: burn away everything you are not, until only the truest part of you is left. They are warm, kind, and the most dangerous friends in the game.
+
+**The Shroudfolk.** Less a faction than a people: those who slipped, or were pushed, out of memory, and persist in the fog, changed. Half-transparent villages in the Shroud. Guides who know the unremembered dark. Some resent the remembered world bitterly; most have simply made a home of what the Shoals threw away. They remember things no one else does. The Shroud keeps everything, badly.
+
+**The Chorus.** A commune that holds memories collectively. No one burns alone; grief is shared until it is no longer anyone's. It is a beautiful idea, and the individual dissolves in it. A member who wants their memories back - their own, private, painful, theirs - must steal themselves. The Chorus regards a Remembrance as a miracle of shared holding: many minds, one person. They are not wrong either. That is the problem with everyone in this game.
+
+## 8. The People
+
+- **Wren**, the Keeper. Dying, in the lighthouse, remembering you. She is the whole game, though you meet her last. Until then you know her only as a handwriting: patient, wry, occasionally scolding.
+- **Nine**, the companion. A wonder of the Shroud: an octopus-minded being whose nine arms each hold memories separately, and sometimes disagree. Nine can carry what you dare not hold, and gives memories back exactly as received. Usually. Nine remembers nearly everything and understands almost none of it, which is why it is the kindest creature in the Shoals.
+- **Sable**, ferryman of the fog. He has crossed so long he no longer remembers his fares; he keeps a ledger of names he cannot attach faces to. Warm, tired, and loyal to one ward he remembers without knowing why.
+- **Mother Vane**, First Archivist of the Palimpsest. Not a villain: a woman who has watched too many places silt to trust any mind, including her own. She offers you cataloging as mercy, and half means it.
+- **Ilex**, fire-tender of the Kindling. Burns memories for the dying as a sacred office. Gentle, and charred at the edges: Ilex burned their own name years ago and asks you, in passing, to choose them a new one. You do. The name you pick is theirs for the rest of the game, and in the credits.
+- **Brack**, Shroudfolk guide. Half-forgotten, translucent at the edges, cheerfully fatalistic. Knows shortcuts through the unremembered dark. Asks payment in being remembered: walk with him, talk to him, tell him about himself. He is running out of himself.
+- **The Almoner**, a masked merchant who buys memories and pays in clear water. Nobody knows what the Almoner does with them all. Shopkeeping, hints, and the quietest horror in the game.
+- **The Revision**, the Archive's corrector. An office, not a person - except that after centuries of erased editors flowing through it, it is very much a person now. It hunts misremembered history and uncataloged Remembrances. Recurring antagonist: you can fight it, evade it, or, hardest of all, convince it.
+
+## 9. The Bestiary
+
+- **Hollows.** People who burned too much of themselves. Blanks in tattered clothes that steal memories on contact and press them to their chests like warmth. Fight them, evade them, or give one a memory freely - which pacifies it for a long time, and is the only kindness most Hollows have ever received.
+- **Siltborn.** Fog given appetite: condensations of unattended grief that ambush in low-memory zones. There is no mind in them to appeal to.
+- **Echoes.** The personal enemies. Every memory you burn may return as an Echo: a wrongly assembled reconstruction of the thing you spent, mournful and wrong. The late-game bestiary is your own burn history. The more Attachment a memory carried, the stronger and stranger its Echo. Some players will stop casting rather than meet what they spent. Good.
+- **The Lapses.** Shroud predators shaped like missing things: a door standing in open fog, a staircase to nowhere, a bridge that is not there anymore. They hunt by being walked into.
+- **The Grand Palimpsest**, the archive's master-catalog, which absorbs originals to keep its copies authoritative. Boss.
+- **The Reconciler**, the Revision's true form, an argument wearing a person. Boss, and winnable by argument.
+- **The Warm Dark**, the thing in the deepest Shroud that remembers back. Not a fight. The final encounter is a conversation, or the refusal to be afraid.
+
+## 10. Combat
+
+Deliberate, close, quiet. Real-time with a held-breath pause when you take a Recall stance. You do not out-fight this world; you out-remember it.
+
+- **Small casts** burn Clarity: wardings, lantern-flares, remembered walls, and the recalled dodge - remember a place you were just standing, and briefly be there again.
+- **Reprisals** burn memories: a spent memory of a storm becomes a storm; a spent memory of a person becomes a brief ally-shaped light that fights beside you. Costly, gorgeous, sad.
+- **Pacify paths:** most human-shaped enemies can be ended without violence. Give a Hollow a memory. Lay an Echo to rest by re-living its memory correctly in a Recital, which returns a fragment of what you burned.
+- **Fleeing** into the off-lane Shroud is always allowed: the dark hides those who do not mind being a little forgotten. Hiding raises Silt.
